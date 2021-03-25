@@ -38,6 +38,8 @@ MARCH 2004 <br><br>
 BOARD OF SECONDARY EDUCATION, ANDHRA PRADESH, INDIA
 MARCH 2002 <br><br>
 
+[<https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>](https://www.linkedin.com/in/ravidevarakonda/)
+
 
 
 

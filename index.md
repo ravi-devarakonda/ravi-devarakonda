@@ -1,6 +1,6 @@
 ## Ravi Shankara Sastry Devarakonda Aswathanarayana
 
-### Cloud Architect | ravi.devarakonda@yahoo.com | +91(0) 99867 34577 | Bengaluru, KA, India
+### Cloud Architect | [ravi.devarakonda@yahoo.com](mailto:ravi.devarakonda@yahoo.com) | +91(0) 99867 34577 | Bengaluru, KA, India
 
 ### Profile
 Senior Solutions architect with

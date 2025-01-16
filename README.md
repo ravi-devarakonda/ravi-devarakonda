@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning more Kubernetes and more Terraform
 - 💬 Ask me about anything
 - 📫 How to reach me: ravi041282@gmail.com 
-- 😄 Pronouns: Ravi, Devarakonda
 
 -->
